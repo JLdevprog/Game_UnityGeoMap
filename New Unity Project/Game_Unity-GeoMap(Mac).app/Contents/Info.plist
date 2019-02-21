@@ -10,7 +10,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleExecutable</key>
-	<string>UnityGeoMap</string>
+	<string>Game_Unity-GeoMap(Mac)</string>
 	<key>CFBundleGetInfoString</key>
 	<string>Unity Player version 2018.3.5f1 (76b3e37670a4). (c) 2019 Unity Technologies ApS. All rights reserved.</string>
 	<key>CFBundleIconFile</key>

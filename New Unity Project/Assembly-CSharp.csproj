@@ -60,6 +60,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\ApplyForceOnTriggerEnter.cs" />
     <Compile Include="Assets\Character Pack RPG FREE\Code\CameraController.cs" />
     <Compile Include="Assets\Character Pack RPG FREE\Code\GUIControlsFREE.cs" />
     <Compile Include="Assets\Character Pack RPG FREE\Code\IKHandsFREE.cs" />

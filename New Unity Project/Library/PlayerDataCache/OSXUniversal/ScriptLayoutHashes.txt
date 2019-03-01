@@ -2,7 +2,7 @@ OSXUniversal
 PlayerPath?
 /Users/Shugox/JLDPS/Game_UnityGeoMap/New Unity Project/Game_Unity-GeoMap(Mac).app
 SceneListBegin?
-Assets/Scenes/Scene04.unity
+Assets/Scenes/GeoMapS.unity
 SceneListEnd?
 71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.LevelReset
 984dcc0ba3707b7691fbdca8ff508d28 Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret
@@ -240,6 +240,7 @@ c933b2cffdb9d1429a103e9d63c523ef Assembly-CSharp-firstpass.dll:UnityStandardAsse
 02e6483ba585336f78a48b8cf2289aa0 Assembly-CSharp.dll:.MenuSceneLoader
 03b9ef2ed536e8d6280069f2195174da Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.SimpleActivatorMenu
 daa6a65fb0f785335ff43e9998133a34 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Vehicles.Car.Mudguard
+a34f049aced677062bfca10d70c43bb8 Assembly-CSharp.dll:.UnCheckIsKinematicOnTriggerEnter
 7e6b022cd7f1c29976ca8b1a21d06265 Assembly-CSharp.dll:UnityStandardAssets.SceneUtils.PlaceTargetWithMouse
 c0e061a135ad81adea53b31e6bf68107 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Vehicles.Aeroplane.AeroplaneControlSurfaceAnimator
 a4f0a4f62100f1a4fb5cbe0e00dde83f Unity.TextMeshPro.dll:TMPro.TextMeshProUGUI
@@ -268,5 +269,5 @@ c6666661329916e218bee7f5e79e60f5 Unity.TextMeshPro.dll:TMPro.TextMeshPro
 761c71fe565631b7b05616cf39a1a258 Assembly-CSharp.dll:.SuperCharacterController
 f09320ddeeb6aa0df53515b59d20361d Assembly-CSharp.dll:RPGCharacterAnims.RPGCharacterMovementControllerFREE
 5e869f601eca6873b969dceef87d6303 Assembly-CSharp-firstpass.dll:UnityStandardAssets._2D.PlatformerCharacter2D
+312070befa3c35fe2fb3cd0b0a371f96 Assembly-CSharp.dll:.ApplyForceOnTriggerEnter
 47cd05cf11ce8beb2fd9a1522f58f5ec Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.AutoMobileShaderSwitch
-a34f049aced677062bfca10d70c43bb8 Assembly-CSharp.dll:.UnCheckIsKinematicOnTriggerEnter
